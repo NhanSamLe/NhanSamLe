@@ -1,5 +1,6 @@
 name: Generate Snake Animation 🐍
-
+permissions:
+  contents: write  
 on:
   schedule:
     # chạy mỗi ngày lúc 00:00 (giờ UTC)
