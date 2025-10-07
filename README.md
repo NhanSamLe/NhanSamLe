@@ -100,9 +100,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanSamLe&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanSamLe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 <br/>
 
