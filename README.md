@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🎓 I’m a **senior student at HCMUTE (Ho Chi Minh City University of Technology and Education)**  
+- 🎓 I’m a **final student at HCMUTE (Ho Chi Minh City University of Technology and Education)**  
 - 💻 I’m passionate about **Backend Web Development**  
 - 🌱 I’m currently learning **Node.js, ReactJS, Java, and Spring Boot**  
 - 📫 How to reach me: **ledaonhansam@gmail.com**  
